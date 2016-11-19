@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ABC Activity</string>
+    <string name="item_main_activity">Main</string>
+    <string name="item_activity_a">Activity A</string>
+    <string name="item_activity_b">Activity B</string>
+    <string name="item_activity_c">Activity C</string>
+    <string name="ButtonGoToMA">Главная Активность</string>
+    <string name="ButtonGoToAB">Активность В</string>
+    <string name="ButtonGoToAA">Активность А</string>
+</resources>
